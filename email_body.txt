@@ -1,0 +1,15 @@
+Hello,
+
+IBM has released new versions and IFIXES of Maximo 7.6.
+Please find the links to the new releases and IFIXES below:
+
+https://www.webuildits.com/ibm-releases-maximo-7-6-1-3/
+https://www.ibm.com/docs/en/mam/7.6.1.x?topic=7613-whats-new-in
+https://moremaximo.com/question/upgrading-from-7612020-to-7613004-receiving-error-message-ctgin5368e-on-the-feature-pack-installation
+https://www.ibm.com/support/pages/node/6609334
+https://community.ibm.com/community/user/asset-facilities/blogs/kim-woodbury1/2022/08/30/maximo-7613
+https://www.ibm.com/support/pages/ibm-readme-ibm-maximo-asset-management-7613-fix-pack
+https://macs.eu/macs-explores-ibm-control-desk-7-6-1-3/
+https://www.ibm.com/support/pages/node/6852249
+
+Thank you!
