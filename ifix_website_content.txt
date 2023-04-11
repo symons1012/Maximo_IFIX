@@ -1,0 +1,2 @@
+Command browse_website returned: Website Content Summary:  Result : The text does not provide information about the best `grep` and `sed` command for extracting IFIX number and release date. It only provides information about the Fix Central tool and how to find fixes for a specific product.
+Links: ['IBM (http://www.ibm.com/us-en/)', 'Site map (http://www.ibm.com/sitemap/us/en/)', 'IBM Support (http://www.ibm.com/support/)', 'Fix Central (/support/fixcentral)', 'Identify fixes (/support/fixcentral/swg/identifyFixes)']    
