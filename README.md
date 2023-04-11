@@ -8,8 +8,8 @@ To run the script manually, simply run the `scheduled_script.py` file. To schedu
 2. Click on `Create Task`.
 3. Give the task a name and description. 
 4. Under the `Triggers` tab, click on `New` and choose how often the task should run (e.g., daily or weekly).
-5. Under the `Actions` tab, click on `New` and enter the path to the `python.exe` and the path to the `scheduled_script.py` file. 
+5. Under the `Actions` tab, click on `New` and enter the path to the path to the `scheduled_script.py` file. 
 6. Under the `Conditions` tab, select any additional conditions for when the task should run (e.g., if the computer is idle). 
 7. Click `OK` to save the task.
 
-**Note**: Remember to set the correct paths to `python.exe` and the `scheduled_script.py` file in step 5. 
+**Note**: Remember to set the correct paths to `scheduled_script.py` file in step 5. 
